@@ -7,7 +7,7 @@ With a strong foundation in data analysis, I enjoy transforming raw data into ac
 ## 🌱 Currently Learning
 I'm continuously expanding my skill set, currently focusing on:
 - Advanced machine learning techniques
-- Deepening my knowledge of Python and R for data analysis
+- Deepening my knowledge of Python for data analysis
 - Enhancing my proficiency in data visualization tools like Power BI and Tableau
 
 ## 💞️ Collaboration Interests
